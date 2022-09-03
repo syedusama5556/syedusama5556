@@ -39,4 +39,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedusama5556&show_icons=true&locale=en&count_private=true" alt="syedusama5556" /></p><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedusama5556&" alt="syedusama5556" /></p>
+
+[![Stargazers over time](https://chart.yhype.me/github/repository-star/v1/MDEwOlJlcG9zaXRvcnkyNzg5Mjk4Njc=.svg)](https://yhype.me/?utm_source=github&utm_medium=syedusama5556-All_in__one_video_downloader&utm_content=chart-repository-star-cumulative)
+
 ![](https://hit.yhype.me/github/profile?user_id=29094408)
