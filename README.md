@@ -62,7 +62,8 @@ A passionate **Software Engineer** with a keen interest in building innovative s
   <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
 ### Github Trophies:
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedusama5556" alt="syedusama5556" /></a> </p><br>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedusama5556&theme=onedark" alt="syedusama5556" /></a> </p><br>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedusama5556&show_icons=true&locale=en&layout=compact&langs_count=20" alt="syedusama5556" /></p><br>
 <br>
