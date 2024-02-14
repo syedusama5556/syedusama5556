@@ -7,9 +7,7 @@
 A passionate **Software Engineer** with a keen interest in building innovative solutions. I thrive on challenges and continuously seek to expand my horizons in the world of technology.
 
 
-- 🔭 Currently, I'm dedicated to the development of a **Video Downloader App** that simplifies the process of downloading videos. You can check it out [here](https://play.google.com/store/apps/details?id=com.infusiblecoder.allinonevideodownloader).
-
-- 🌱 I'm also on a journey of learning and exploration, with a focus on **Google Cloud** and **Docker** to harness its powerful capabilities for future projects.
+- 🌱 I'm on a journey of learning and exploration, with a focus on **Google Cloud** and **Docker** to harness its powerful capabilities for future projects.
 
 - 💬 Feel free to reach out to me for discussions on various topics:
   - **Android**
