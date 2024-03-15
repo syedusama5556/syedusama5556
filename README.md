@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedusama5556&label=Profile%20views&color=0e75b6&style=flat" alt="syedusama5556" /> </p>
-![](https://hit.yhype.me/github/profile?user_id=29094408)
+
 <h1 align="center">Hi 👋, Github, I'm Syed Usama Ahmad</h1>
 
 ### About Me ❔
